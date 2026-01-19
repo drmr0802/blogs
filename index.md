@@ -3,13 +3,8 @@ layout: default
 title: JOISC 题解
 ---
 
-# Test H1
-## Test H2
+# Drmr's blog.
 
-$N \le 1000$
+## Unfinished problems.
 
-$$
-sum = \sum_{i = 1}^{N} a_i
-$$
-
-The fox.
+asasdasdasdasd
