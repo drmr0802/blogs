@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "Latin Modern";
+  src: url("../fonts/latin-modern/lmroman-regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Latin Modern";
+  src: url("../fonts/latin-modern/lmroman-bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Latin Modern";
+  src: url("../fonts/latin-modern/lmroman-italic.woff") format("woff");
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Latin Modern";
+  src: url("../fonts/latin-modern/lmroman-bolditalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Serif";
+  src: url("../fonts/source-han-serif/SourceHanSerifCN-Regular.woff") format("woff");
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Serif";
+  src: url("../fonts/source-han-serif/SourceHanSerifCN-Bold.woff") format("woff");
+  font-weight: bold;
+  font-display: swap;
+}
+
+body {
+  font-family:
+    "Latin Modern",
+    "Source Han Serif",
+    serif;
+  font-size: 17px;
+  line-height: 1.7;
+}
