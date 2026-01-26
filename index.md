@@ -12,3 +12,7 @@ Click [here](unsolved_problems/index.html).
 ## Tricks.
 
 Click [here](tricks/index.html).
+
+## Blogs.
+
+Click [here](blogs/index.html).
