@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JOISC 题解
+title: Drmr's blog.
 ---
 
 # Drmr's blog.
