@@ -58,3 +58,11 @@ title: Unsolved_problems
 | QOJ7737 | 3 | 2026/01/27 | [讲课](../resources/2026/JAN/20260127.pdf) | - |
 | QOJ10010 | 3 | 2026/01/27 | [讲课](../resources/2026/JAN/20260127.pdf) | - |
 | QOJ2758 | 3 | 2026/01/27 | [讲课](../resources/2026/JAN/20260127.pdf) | - |
+| AGC058F | 1 | 2026/01/30 | [讲课（ATC）](../resources/2026/JAN/20260130.pdf) | X |
+| AGC062F | 1 | 2026/01/30 | [讲课（ATC）](../resources/2026/JAN/20260130.pdf) | - |
+| https://atcoder.jp/contests/awtf2024/tasks/awtf2024_e | 1 | 2026/01/30 | [讲课（ATC）](../resources/2026/JAN/20260130.pdf) | - |
+| AGC064E | 1 | 2026/01/30 | [讲课（ATC）](../resources/2026/JAN/20260130.pdf) | - |
+| AGC065E | 1 | 2026/01/30 | [讲课（ATC）](../resources/2026/JAN/20260130.pdf) | - |
+| https://atcoder.jp/contests/wtf19-open/tasks/wtf19_c2 | 1 | 2026/01/30 | [讲课（ATC）](../resources/2026/JAN/20260130.pdf) | - |
+| AGC069E | 1 | 2026/01/30 | [讲课（ATC）](../resources/2026/JAN/20260130.pdf) | - |
+| AGC076E | 1 | 2026/01/30 | [讲课（ATC）](../resources/2026/JAN/20260130.pdf) | - |
